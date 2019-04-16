@@ -26,3 +26,13 @@ D:\LT Windows\GameWinform\HelicopterFlyingAndShootingGame\obj\Debug\HelicopterFl
 D:\LT Windows\GameWinform\HelicopterFlyingAndShootingGame\obj\Debug\HelicopterFlyingAndShootingGame.csproj.CoreCompileInputs.cache
 D:\LT Windows\GameWinform\HelicopterFlyingAndShootingGame\obj\Debug\HelicopterFlyingAndShootingGame.exe
 D:\LT Windows\GameWinform\HelicopterFlyingAndShootingGame\obj\Debug\HelicopterFlyingAndShootingGame.pdb
+D:\LT Windows\Game\GameWinform\HelicopterFlyingAndShootingGame\bin\Debug\HelicopterFlyingAndShootingGame.exe.config
+D:\LT Windows\Game\GameWinform\HelicopterFlyingAndShootingGame\bin\Debug\HelicopterFlyingAndShootingGame.exe
+D:\LT Windows\Game\GameWinform\HelicopterFlyingAndShootingGame\bin\Debug\HelicopterFlyingAndShootingGame.pdb
+D:\LT Windows\Game\GameWinform\HelicopterFlyingAndShootingGame\obj\Debug\HelicopterFlyingAndShootingGame.csprojAssemblyReference.cache
+D:\LT Windows\Game\GameWinform\HelicopterFlyingAndShootingGame\obj\Debug\HelicopterFlyingAndShootingGame.Form1.resources
+D:\LT Windows\Game\GameWinform\HelicopterFlyingAndShootingGame\obj\Debug\HelicopterFlyingAndShootingGame.Properties.Resources.resources
+D:\LT Windows\Game\GameWinform\HelicopterFlyingAndShootingGame\obj\Debug\HelicopterFlyingAndShootingGame.csproj.GenerateResource.cache
+D:\LT Windows\Game\GameWinform\HelicopterFlyingAndShootingGame\obj\Debug\HelicopterFlyingAndShootingGame.csproj.CoreCompileInputs.cache
+D:\LT Windows\Game\GameWinform\HelicopterFlyingAndShootingGame\obj\Debug\HelicopterFlyingAndShootingGame.exe
+D:\LT Windows\Game\GameWinform\HelicopterFlyingAndShootingGame\obj\Debug\HelicopterFlyingAndShootingGame.pdb
